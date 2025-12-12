@@ -1,4 +1,4 @@
-# 📈 Monthly Store Sales Forecasting using SARIMA & Prophet
+# 📈 Monthly Store Sales Forecasting using SARIMA & PROPHET Models
 
 This project builds a monthly sales forecasting system using classical and modern time-series models.  
 It uses the **Store Sales – Time Series Forecasting** dataset from Kaggle and predicts sales for the next **3 months** using:
