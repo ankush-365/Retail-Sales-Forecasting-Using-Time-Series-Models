@@ -30,7 +30,6 @@ The analysis included:
 - Sales trend visualization  
 - Seasonality detection  
 - Rolling averages  
-- ACF & PACF plots  
 - Holiday impact study  
 
 ### Key Insights:
