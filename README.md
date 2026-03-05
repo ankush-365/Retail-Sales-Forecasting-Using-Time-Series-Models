@@ -71,15 +71,13 @@ Prophet was used with:
 |--------|--------|
 | MAPE | **0.065 (6.5%)** |
 
-Despite R² limitations, Prophet performed very well in terms of error.
-
 ---
 
 ## 🏁 Conclusion
 
 - Both models worked well for monthly forecasting.
-- **Prophet** performed slightly better for this dataset, especially due to holiday components.
-- **SARIMA** provides a stable traditional baseline.
+- **SARIMA** performed slightly better for this dataset, especially due to holiday components.
+- **PROPHET** provides a stable traditional baseline.
 - The project demonstrates end-to-end forecasting:
   - Data cleaning  
   - Feature engineering  
